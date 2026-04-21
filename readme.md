@@ -1,88 +1,57 @@
-🏦 Aegis Bank – Creator Landing Platform
+README – Projet Aegis Bank
+Description
 
-Plateforme bancaire éthique dédiée aux créateurs de contenu (streamers, gamers, artistes digitaux)
+Ce projet consiste en la réalisation d’une page d’accueil statique pour une banque fictive nommée Aegis Bank.
+L’interface a été conçue en HTML5 et CSS3 avec une mise en page structurée en CSS Grid. Elle met en avant une identité visuelle moderne et minimaliste.
 
-📌 What the project does
+Le site présente un message marketing centré sur la confidentialité, la transparence et une alternative éthique aux banques en ligne classiques.
 
-Aegis Bank est une plateforme digitale conçue pour répondre aux besoins spécifiques des créateurs de contenu.
+Objectifs pédagogiques
+Structurer une page web avec les balises sémantiques (header, main, section, footer)
+Organiser une interface avec CSS Grid
+Positionner des éléments avec Flexbox
+Intégrer des polices externes
+Travailler la hiérarchie visuelle et la mise en page
+Technologies utilisées
+HTML5
+CSS3
+CSS Grid
+Flexbox
+Google Fonts
+Fichiers SVG
+Arborescence du projet
+.
+├── index.html
+├── style.css
+└── image/
+    ├── menu.svg
+    ├── Bluesky_Logo 1.svg
+    ├── Mastodon_Logotype_(Simple) 1.svg
+    └── Vector.svg
+Contenu de la page
 
-Elle propose une solution bancaire moderne, transparente et respectueuse des données personnelles, avec une expérience optimisée pour les revenus variables et les collaborations digitales.
+La page comprend :
 
-🚀 Why the project is useful
-✨ Principales fonctionnalités
-💳 Solutions bancaires adaptées aux revenus irréguliers
-🤝 Outils de gestion financière collaborative
-📊 Suivi des partenariats et investissements
-📈 Gestion de revenus multiples
-🔐 Respect total de la vie privée
-🧾 Transparence des frais
-🏅 Système de certification des revenus
-🎯 Objectif
+Un en-tête fixe avec le logo, les boutons de connexion et d’inscription, ainsi qu’une icône de menu
+Un titre principal présentant le concept de la banque
+Un texte descriptif mettant en avant la confidentialité des données
+Des icônes de réseaux sociaux
+Une offre promotionnelle
+Un bouton de téléchargement pour l’application
+Un pied de page fixe avec un texte informatif et la date
+Utilisation
 
-Créer une alternative éthique aux néobanques traditionnelles en mettant l'accent sur :
+Aucune installation n’est nécessaire.
 
-la transparence
-la confidentialité
-le contrôle utilisateur
-⚙️ Getting Started
-📦 Installation
+Télécharger le dossier du projet
+Ouvrir le fichier index.html dans un navigateur web
+Pistes d’amélioration
+Ajouter une version responsive pour mobile et tablette
+Améliorer l’accessibilité
+Corriger certains noms de classes
+Ajouter des animations CSS
+Transformer les boutons en liens interactifs
+Auteur
 
-Clone le projet :
-
-git clone https://github.com/ton-username/aegis-bank.git
-cd aegis-bank
-
-Installe les dépendances :
-
-npm install
-
-Lance le projet :
-
-npm run dev
-🧪 Exemple d'utilisation
-# Lancer le serveur local
-npm run dev
-
-# Build production
-npm run build
-
-# Preview
-npm run preview
-🧩 Project Structure
-aegis-bank/
-├── src/            # Code source principal
-├── public/         # Assets statiques
-├── components/     # Composants UI
-├── pages/          # Pages / routes
-├── styles/         # Styles globaux
-└── README.md
-🆘 Where to get help
-📖 Documentation : docs/
-🐛 Issues : Issues tab GitHub
-💬 Discussions : Discussions tab
-👥 Maintainers & Contributors
-🧑‍💻 Maintainer
-Ton Nom — Lead Developer
-🤝 Contribuer
-
-Les contributions sont les bienvenues !
-
-Fork le repo
-Crée une branche
-git checkout -b feature/ma-feature
-Commit tes changements
-git commit -m "Ajout feature"
-Push
-git push origin feature/ma-feature
-Ouvre une Pull Request
-
-👉 Voir CONTRIBUTING.md pour plus de détails
-
-📅 Project Info
-Client : Aegis Bank
-Lancement : Mars 2026
-Cible : Créateurs de contenu (18–25 ans)
-Zone : Union Européenne
-🛡️ License
-
-Ce projet est sous licence — voir le fichier LICENSE.
+Yaw Okyere Darko
+Projet réalisé dans le cadre d’un exercice de développement web frontend.
